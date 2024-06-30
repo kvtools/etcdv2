@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/kvtools/valkeyrie v1.0.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	go.etcd.io/etcd/client/v2 v2.305.9
 )
 
